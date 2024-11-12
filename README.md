@@ -3,7 +3,7 @@ FIT1013 - SAF Rental Management System (Excel VBA)
 
 1. Project Overview
 
-This project is  an Excel-based rental management system for SAD, developed using VBA. The system aims to streamline the rental process, handling customer data, new rental orders, dress collection, and rental history display. The SAF system includes user forms and automated processes to manage daily business operations, eliminating the need for manual data entry in SAF's expanding inventory.
+This project is  an Excel-based rental management system for SAF, developed using VBA. The system aims to streamline the rental process, handling customer data, new rental orders, dress collection, and rental history display. The SAF system includes user forms and automated processes to manage daily business operations, eliminating the need for manual data entry in SAF's expanding inventory.
 
 2. System Requirements
 * Microsoft Excel (Office 2019 or Microsoft 365)
